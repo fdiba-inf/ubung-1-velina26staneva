@@ -8,6 +8,6 @@ public class Tree {
     System.out.print("  *****\n");
     System.out.print(" *******\n");
     System.out.print("*********\n");
-    System.out.print("    *\n");
+    System.out.print("   ***\n");
   }
 }
